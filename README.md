@@ -33,15 +33,6 @@ For this initial step, I opened a ticket as the end user "Barbra Carson" with th
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/9cc56003-0803-47c8-958b-7b5991f7109f"/>
-<img src="https://github.com/user-attachments/assets/fbd73c85-dfbf-4adc-b746-dd76819d70c3"/>
-</p>
-<p>
-During the osTicket Project, I had an issue in which I was fully locked out of all of my accounts, including the admin account. To resolve this, I had to enter MySQL and run code under "Query" to change my admin password. Afterwards, I sent a request to ost_staff to update the agents' passwords to ensure that the same problem did not occur again.
-</p>
-<br />
-
-<p>
 <img src="https://github.com/user-attachments/assets/977733a7-6159-402f-a6fc-fcb9851814ca"/>
 <img src="https://github.com/user-attachments/assets/259129fb-0116-4dde-a962-b55a2256b693"/>
 </p>

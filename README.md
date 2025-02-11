@@ -50,11 +50,19 @@ As Murphy, I signed into the Ticket and observed the issue. I then modified the 
 </p>
 <br />
 
-
 <p>
 <img src="https://github.com/user-attachments/assets/977733a7-6159-402f-a6fc-fcb9851814ca"/>
 </p>
 <p>
-As Murphy, I signed into the Ticket and observed the issue. I then modified the Priority to Emergency, the SLA Plan to Sev-A, the Help Topic to Business Critical Outage, and the Assignee to Jessica Jones (Admin for the Online Banking Team).
+I opened a new issue as Ken Carlton, the end user, with the simple statement "accounting department needs Adobe upgrade, broken". Once again, I'll log in as Agent Murphy and work on the ticket from there.
 </p>
 <br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/af1cf3e7-2c1c-4bc0-adf2-748d94be8ee1"/>
+</p>
+<p>
+As Murphy, I worked the ticket to completion and set the SLA to Sev-C after determining that the issue at hand was not as serious as it appeared.
+</p>
+<br />
+
